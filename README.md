@@ -1,6 +1,6 @@
 ### Hello. 👋
 
-IT professional, web developer, computer hardware enthusiast and VR fanatic living in the United States working as a systems administrator. My hobbies revolve around building computers, aerial photography, automotive and web development.
+IT professional, web developer, hardware enthusiast and VR fanatic currently working as a systems administrator. My hobbies revolve around building computers, aerial photography, automotive and simulation.
 
 My goal is to build a refined knowledge of how both hardware and software can come together to create unique experiences that push the very boundaries of how we perceive modern technology.
 
