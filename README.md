@@ -2,7 +2,7 @@
 
 I'm a systems administrator, web developer, PC hardware enthusiast and VR fanatic living in the United States. My hobbies revolve around building computers, aerial photography, automotive engineering and the Unity game engine.
 
-My goal is to build a refined knowledge of how both hardware and software can come together to create unique experiences that push the very boundaries of how we perceive modern technology.
+My hobbies revolve around building computers, aerial photography, automotive engineering and Unity.
 
 <!--
 **DAGINATSUKO/daginatsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
