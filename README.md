@@ -1,8 +1,11 @@
+![Preview](readme.png)
+
 ### Hello. 👋
 
-I'm a systems administrator, web developer, PC hardware enthusiast and VR fanatic living in the United States. My hobbies revolve around building computers, aerial photography, automotive engineering and the Unity game engine.
+I'm a systems administrator, developer, PC hardware enthusiast and VR fanatic from the United States.
 
-My hobbies revolve around building computers, aerial photography, automotive engineering and Unity.
+My hobbies include exploring automotive culture, amateur photography, building PCs and developing high-fidelity VR experiences with the Unity game engine.
+
 
 <!--
 **DAGINATSUKO/daginatsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
