@@ -1,9 +1,7 @@
 ![Preview](readme.png)
 ### Hello.
 
-I'm a cybersecurity consultant, developer, PC hardware enthusiast and VR fanatic from the United States.
-
-My hobbies include exploring automotive culture, amateur photography, building PCs and developing high-fidelity VR experiences with the Unity game engine.
+I like creating things, building computers and overclocking. My strengths and hobbies revolve around amateur photography, automotive culture and creating high-fidelity experiences designed for VR and beyond.
 
 
 <!--
