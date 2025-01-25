@@ -3,6 +3,8 @@
 
 I like creating things, building computers and overclocking. My strengths and hobbies revolve around amateur photography, automotive culture and creating high-fidelity experiences designed for VR and beyond.
 
+Currently working in Cybersecurity.
+
 
 <!--
 **DAGINATSUKO/daginatsuko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
