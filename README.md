@@ -1,4 +1,4 @@
-![Preview](https://daginatsuko.com/cdn/_external/github/banner.png/*)
+![Preview](https://daginatsuko.com/cdn/_external/github/banner.png/)
 ### Hello.
 
 I like creating things, building computers and overclocking. My strengths and hobbies revolve around amateur photography, automotive culture and creating high-fidelity experiences designed for VR and beyond.
